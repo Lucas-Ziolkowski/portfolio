@@ -2,8 +2,8 @@ site_name: Portfolio
 site_url: http://127.0.0.1:8000
 site_author: Lucas ZIOLKOWSKI
 site_description: Portfolio
-repo_name: Lucas-Ziolkowski/portfolio
-repo_url: https://github.com/Lucas-Ziolkowski/portfolio
+repo_name: lucas.ziol73/portfolio
+repo_url: https://gitlab.com/lucas.ziol73/portfolio
 copyright: Copyright © 2025 - 2026 Lucas ZIOLKOWSKI
 
 nav:
@@ -25,21 +25,11 @@ theme:
     - content.code.annotate
     - content.code.copy
     - content.code.select
-    # Sidebar navigation désactivée globalement via CSS
-    #- navigation.expand
     - navigation.footer
-    #- navigation.indexes
-    #- navigation.instant
-    #- navigation.instant.prefetch
-    #- navigation.instant.progress
-    #- navigation.prune
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
-    # Breadcrumb désactivé sauf sur les pages projets (géré par métadonnées)
-    #- navigation.path
-    #- navigation.sections
     - search.highlight
     - search.share
     - search.suggest

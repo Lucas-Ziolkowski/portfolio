@@ -2,54 +2,23 @@
    Portfolio - CSS épuré
    =============================== */
 
-/* ------------------------------
-   Masquer la sidebar sur desktop
-   ------------------------------ */
-@media screen and (min-width: 76.25em) {
-  .md-sidebar--primary,
-  .md-sidebar {
-    display: none;
-  }
 
-  .md-main__inner,
-  .md-content {
-    max-width: 100%;
-  }
+.md-typeset h1 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+  color: white !important;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.25);
 }
 
-/* ------------------------------
-   Menu hamburger et toggle thème sur mobile
-   ------------------------------ */
-@media screen and (max-width: 76.1875em) {
-  .md-header__button {
-    display: inline-block;
-  }
 
-  /* Masquer le toggle de la sidebar */
-  .md-sidebar .md-toggle {
-    display: none;
-  }
-
-  /* Toggle du header visible */
-  .md-header .md-toggle {
-    display: inline-block;
-  }
-
-  /* Padding mobile pour hero et timeline */
-  .hero-section {
-    padding: 2rem 1rem;
-  }
-  .timeline {
-    padding-left: 1.5rem;
-  }
-
-  /* Boutons plus grands sur mobile */
-  .md-button,
-  .md-button--primary {
-    min-height: 48px;
-    padding: 0.8em 1.4em;
-  }
+.md-typeset h1:hover {
+  transform: translateY(-2px);
+  transition: transform 0.2s ease;
 }
+
 
 /* ------------------------------
    Icônes et emojis

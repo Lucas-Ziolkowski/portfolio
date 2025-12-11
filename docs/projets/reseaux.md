@@ -39,7 +39,7 @@ hide:
 
 - :material-router: Routeurs Cisco, HP
 - :material-switch: Commutateurs
-- :material-firewall: Pare-feu
+- :material-shield-lock: Pare-feu
 
 <span class="badge">Cisco</span>
 <span class="badge">HP</span>

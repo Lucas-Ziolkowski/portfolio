@@ -5,11 +5,6 @@ hide:
   - navigation
   - navigation.path
   - toc
-social:
-  card:
-    title: "Lucas ZIOLKOWSKI"
-    subtitle: "Étudiant R&T — Administrateur Réseau & Système"
-    image: assets/images/social/index.png
 ---
 
 <div class="hero-section" markdown>
@@ -17,7 +12,7 @@ social:
 # <span class="icon-bounce">:material-account-circle:</span> Lucas ZIOLKOWSKI
 
 ## Étudiant en Réseaux & Télécommunications
-### Administrateur Réseau & Système
+### DevOps
 
 [:material-email: Me contacter](contact.md){ .md-button .md-button--primary }
 [:material-folder-open: Voir mes projets](projets/index.md){ .md-button }
@@ -28,11 +23,7 @@ social:
 
 ## :material-lightbulb-on: Qui suis-je ?
 
-!!! tip "Profil Professionnel"
-
-    Formé en **infrastructure réseau** et **administration système**, je suis passionné par la conception, le déploiement et la sécurisation d'environnements IT — du réseau à l'infrastructure, en passant par la virtualisation et l'automatisation.  
-
-    Je travaille actuellement sur plusieurs projets personnels et scolaires, et je suis ouvert à des opportunités :material-briefcase-outline: **stage**, :material-school: **alternance**, :material-code-tags: **projets freelance**.
+Je suis actuellement etudient en 3eme année de **BUT Réseaux et Télécomunication** en Alerternance chez **TelNowEdge**
 
 ---
 
@@ -43,13 +34,13 @@ social:
 <div class="skill-card" markdown>
 ### :material-network: Réseaux & Infrastructure  
 
-:material-router-network: Routeurs / commutateurs (Cisco, HP)  
-:material-network-outline: Protocoles : TCP/IP, OSPF, BGP, VLAN, STP  
-:material-shield-lock: VPN, MPLS, VoIP, 5G  
+:material-router-network: Routeurs / commutateurs (Cisco)  
+:material-network-outline: Protocoles : TCP/IP, VLAN
+:material-shield-lock: VPN, VoIP  
 
 <span class="badge">Cisco</span>
-<span class="badge">OSPF</span>
-<span class="badge">BGP</span>
+<span class="badge">VLAN</span>
+<span class="badge">Wireguard</span>
 </div>
 
 <div class="skill-card" markdown>
@@ -110,15 +101,7 @@ Supervision Zabbix et scripting pour un environnement d'entreprise avec CI/CD Gi
 [:material-arrow-right: En savoir plus](projets/index.md){ .md-button .md-button--primary }
 </div>
 
-<div markdown>
-### :material-account-group: Expériences Client
-
-Développement de soft skills et gestion de projets clients dans différents contextes professionnels.
 </div>
-
-</div>
-
-[:material-folder-multiple: Voir tous mes projets](projets/index.md){ .md-button .md-button--primary }
 
 ---
 
@@ -128,17 +111,17 @@ Développement de soft skills et gestion de projets clients dans différents con
 
 <div markdown>
 ### :material-email: Email
-[lucas.ziolkowski@example.com](mailto:lucas.ziolkowski@example.com)
+[contact@lucas-ziolkowski.org](mailto:contact@lucas-ziolkowski.org)
 </div>
 
 <div markdown>
-### :material-github: GitHub
-[github.com/lucas-ziolkowski](https://github.com/lucas-ziolkowski)
+### :material-gitlab: GitLab
+[gitlab.com/lucas.ziol73](https://gitlab.com/lucas.ziol73)
 </div>
 
 <div markdown>
 ### :material-linkedin: LinkedIn
-[linkedin.com/in/lucas-ziolkowski](https://linkedin.com/in/lucas-ziolkowski)
+[linkedin.com/in/lucas-ziolkowski](https://www.linkedin.com/in/lucas-ziolkowski-a760b9278)
 </div>
 
 </div>

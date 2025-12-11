@@ -44,7 +44,7 @@ hide:
 <div class="project-card" markdown>
 ### :material-shield-check: Cybersécurité
 
-**Description :** Analyse et exploitation de vulnérabilités sur un parc informatique Windows et Linux. Ce projet m'a permis de comprendre les failles de sécurité et de mettre en place des mesures correctives.
+**Description :** Analyse et exploitation de vulnérabilités sur un parc informatique Windows et Linux.
 
 **Technologies :**  
 <span class="badge">Kali Linux</span>
@@ -58,7 +58,7 @@ hide:
 <div class="project-card" markdown>
 ### :material-cloud: DevCloud
 
-**Description :** Déploiement et gestion d'un environnement cloud pour héberger des applications et services réseau. Idéal pour apprendre la virtualisation, l'orchestration et l'automatisation des services.
+**Description :** Déploiement et gestion d'un environnement cloud pour héberger un site e-commerce. Idéal pour apprendre la virtualisation, l'orchestration et la compréhension des multiples services dans une app.
 
 **Technologies :**  
 <span class="badge">Docker</span>

@@ -40,7 +40,7 @@ hide:
 <div class="skill-card" markdown>
 ### :material-phone: Téléphone
 
-**+33 7 82 98 97 69**
+**+33 7 82 XX XX 69**
 
 !!! tip "Disponibilité"
     Disponible du lundi au vendredi, 9h-18h
@@ -66,64 +66,19 @@ hide:
 <div class="project-card" markdown>
 ### :material-linkedin: LinkedIn
 
-[:material-open-in-new: linkedin.com/in/lucas-ziolkowski](https://linkedin.com/in/lucas-ziolkowski)
+[:material-open-in-new: linkedin.com/in/lucas-ziolkowski](https://www.linkedin.com/in/lucas-ziolkowski-a760b9278)
 
 !!! tip "Profil professionnel"
     Connectez-vous pour suivre mon parcours
 </div>
 
 <div class="project-card" markdown>
-### :material-github: GitHub
+### :material-gitlab: GitLab
 
-[:material-open-in-new: github.com/lucas-ziolkowski](https://github.com/Lucas-Ziolkowski)
+[:material-open-in-new: gitlab.com/lucas.ziol73](https://gitlab.com/lucas.ziol73)
 
 !!! tip "Code & Projets"
     Découvrez mes projets et contributions
-</div>
-
-<div class="project-card" markdown>
-### :material-twitter: Twitter / X
-
-[:material-open-in-new: @LucasZiolkowski](https://x.com/LucasZiolkowski)
-
-!!! tip "Actualités"
-    Suivez mes actualités tech et professionnelles
-</div>
-
-</div>
-
----
-
-## :material-briefcase: Opportunités recherchées
-
-<div class="grid cards" markdown>
-
-<div class="stats-card" markdown>
-### :material-school: Alternance
-
-**Durée** : 1 an (3ème année BUT)  
-**Domaine** : Réseaux & Télécommunications  
-**Localisation** : Grenoble / Télétravail
-
-[:material-information: En savoir plus](cv.md){ .md-button }
-</div>
-
-<div class="stats-card" markdown>
-### :material-code-tags: Projets freelance
-
-**Type** : Infrastructure, Automatisation, DevOps  
-**Disponibilité** : Week-ends et soirées
-
-[:material-rocket-launch: Voir mes projets](projets/index.md){ .md-button }
-</div>
-
-<div class="stats-card" markdown>
-### :material-handshake: Stage
-
-**Durée** : 2-6 mois  
-**Période** : Été 2025
-
-[:material-calendar: Disponibilité](mailto:contact@lucas-ziolkowski.org?subject=Stage%202025){ .md-button }
 </div>
 
 </div>

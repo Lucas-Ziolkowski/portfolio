@@ -51,7 +51,7 @@ hide:
 
 - :material-docker: Docker
 - :material-kubernetes: Kubernetes
-- :material-language-python: Python
+- :material-api: FastAPI
 - :material-source-branch: CI/CD GitLab
 
 <span class="badge">Docker</span>

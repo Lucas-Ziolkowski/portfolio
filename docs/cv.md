@@ -12,7 +12,7 @@ hide:
 # :material-file-document: Curriculum Vitae
 
 ## **Lucas ZIOLKOWSKI**
-### *Étudiant en BUT Réseaux & Télécommunications — 3ème année*
+### *Étudiant en BUT Réseaux & Télécommunications — 3ᵉ année*
 
 </div>
 
@@ -168,16 +168,16 @@ hide:
 **Niveau** : Langue maternelle
 
 <div class="progress-bar">
-  <div class="progress-fill" style="width: 100%"></div>
+  <div class="progress-fill" style="width: 80%"></div>
 </div>
 </div>
 
 <div class="stats-card" markdown>
 ### 🇬🇧 Anglais
-**Niveau** : B2 (technique)
+**Niveau** : A1 (technique)
 
 <div class="progress-bar">
-  <div class="progress-fill" style="width: 75%"></div>
+  <div class="progress-fill" style="width: 5%"></div>
 </div>
 </div>
 

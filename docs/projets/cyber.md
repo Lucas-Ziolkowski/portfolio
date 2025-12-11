@@ -27,7 +27,7 @@ hide:
     
     - :material-shield-alert: Des vulnérabilités
     - :material-bug: Des failles de sécurité
-    - :material-settings: Des mauvaises configurations
+    - :material-cog: Des mauvaises configurations
     - :material-alert-circle: Des mauvaises pratiques de sécurité
     
     L'objectif est de réaliser des exploits permettant de récupérer des comptes à privilèges élevés.
@@ -46,7 +46,7 @@ hide:
 ### :material-lightbulb-on: Compétences
 
 - :material-shield-search: Pentesting
-- :material-network-security: Sécurité réseau
+- :material-shield-lock: Sécurité réseau
 - :material-magnify: Analyse de vulnérabilités
 - :material-cog: Administration système
 

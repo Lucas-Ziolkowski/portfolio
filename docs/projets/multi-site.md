@@ -80,7 +80,7 @@ hide:
     - :material-cog: Déploiement des différents services (DNS, DHCP, Serveur de fichier, etc...)
     - :material-account-plus: Création des différents utilisateurs et groupes
     - :material-shield-lock: Mise en place des différentes règles de sécurité
-    - :material-policy: Mise en place des différentes GPO
+    - :material-shield-alert: Mise en place des différentes GPO
 
 <figure markdown="span" class="parallax-image">
   ![Architecture Maquette 1](../assets/images/maquette-1.drawio.svg){ width="800" }
@@ -113,7 +113,7 @@ hide:
     Ajout des services dans les sites distants
 
     - :material-server-network: Mise en place des services dans la configuration finale
-    - :material-policy: Mise en place de nouvelles GPO
+    - :material-shield-alert: Mise en place de nouvelles GPO
 
 <figure markdown="span" class="parallax-image">
   ![Architecture Maquette 3](../assets/images/maquette-3.drawio.svg){ width="800" }
