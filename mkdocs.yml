@@ -1,9 +1,7 @@
-site_name: Portfolio
+site_name: Lucas ZIOLKOWSKI
 site_url: http://127.0.0.1:8000
 site_author: Lucas ZIOLKOWSKI
 site_description: Portfolio
-repo_name: lucas.ziol73/portfolio
-repo_url: https://gitlab.com/lucas.ziol73/portfolio
 copyright: Copyright © 2025 - 2026 Lucas ZIOLKOWSKI
 
 nav:
@@ -28,7 +26,6 @@ theme:
     - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.top
     - navigation.tracking
     - search.highlight
     - search.share
@@ -36,18 +33,19 @@ theme:
     - toc.follow
     - toc.integrate
     - content.social
+    - content.tabs.link
   palette:
     - scheme: default
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch-off-outline
         name: Switch to light mode
   font:
     text: Roboto

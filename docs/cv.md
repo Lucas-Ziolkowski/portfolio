@@ -105,54 +105,46 @@ hide:
 
 ---
 
-## :material-briefcase: Expérience Professionnelle
+## :material-briefcase: Expérience professionnelle
 
 <div class="grid cards" markdown>
 
 <div class="project-card" markdown>
-!!! success ":material-calendar-range: 2025 - 2026"
-    ### :material-office-building: TelNowEdge
-    
-    **Poste** : Administrateur Réseau & Système
-    
-    - :material-monitor-dashboard: Supervision Zabbix  
-    - :material-code-tags: Automatisation / scripts  
-    - :material-source-branch: CI/CD GitLab  
-    - :material-file-document: Documentation technique  
-    
-    <span class="badge">En cours</span>
+### :material-office-building: TelNowEdge  
+**Administrateur Réseaux & Systèmes**  
+<span class="badge">2025 – 2026 · En cours</span>
+
+- :material-monitor-dashboard: Supervision Zabbix  
+- :material-code-tags: Automatisation & scripts  
+- :material-source-branch: CI/CD GitLab  
+- :material-file-document: Documentation technique  
 </div>
 
 <div class="project-card" markdown>
-!!! tip ":material-calendar-range: 2024 - 2026"
-    ### :material-store: Botanic
-    
-    **Poste** : Vendeur
-    
-    - :material-account-group: Accueil clients  
-    - :material-cash-register: Gestion caisses  
-    
-    <span class="badge">En cours</span>
+### :material-store: Botanic  
+**Vendeur**  
+<span class="badge">2024 – 2026 · En cours</span>
+
+- :material-account-group: Accueil clients  
+- :material-cash-register: Gestion de caisse  
 </div>
 
 <div class="project-card" markdown>
-!!! tip ":material-calendar-range: 2022 - 2023"
-    ### :material-store: Buro+
-    
-    **Poste** : Vendeur
-    
-    - :material-cash-register: Gestion caisses  
-    - :material-package-variant: Mise en rayon  
+### :material-store: Buro+  
+**Vendeur**  
+<span class="badge">2022 – 2023</span>
+
+- :material-cash-register: Gestion de caisse  
+- :material-package-variant: Mise en rayon  
 </div>
 
 <div class="project-card" markdown>
-!!! tip ":material-calendar-range: 2022 - 2023"
-    ### :material-store: Au Jardin Des Plantes
-    
-    **Poste** : Vendeur
-    
-    - :material-cash-register: Gestion caisses  
-    - :material-package-variant: Mise en rayon  
+### :material-store: Au Jardin des Plantes  
+**Vendeur**  
+<span class="badge">2022 – 2023</span>
+
+- :material-cash-register: Gestion de caisse  
+- :material-package-variant: Mise en rayon  
 </div>
 
 </div>
@@ -167,18 +159,12 @@ hide:
 ### 🇫🇷 Français
 **Niveau** : Langue maternelle
 
-<div class="progress-bar">
-  <div class="progress-fill" style="width: 80%"></div>
-</div>
 </div>
 
 <div class="stats-card" markdown>
 ### 🇬🇧 Anglais
 **Niveau** : A1 (technique)
 
-<div class="progress-bar">
-  <div class="progress-fill" style="width: 5%"></div>
-</div>
 </div>
 
 </div>
@@ -187,24 +173,17 @@ hide:
 
 ## :material-download: Actions
 
-<div class="grid cards" markdown>
 
-<div markdown>
-### :material-email: Contact
+<div class="grid" markdown>
 
 [:material-message-text: Me contacter](contact.md){ .md-button .md-button--primary }
-</div>
-
-<div markdown>
-### :material-file-pdf-box: Télécharger
+{ .card }
 
 [:material-download: Télécharger mon CV (PDF)](assets/files/CV_Lucas_Ziolkowski.pdf){ .md-button .md-button--primary }
-</div>
+{ .card }
 
 </div>
 
 ---
 
-!!! info "Informations"
-
-    *Dernière mise à jour : Janvier 2025*
+*Dernière mise à jour : Janvier 2025*

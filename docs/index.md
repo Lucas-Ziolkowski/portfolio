@@ -14,8 +14,14 @@ hide:
 ## Étudiant en Réseaux & Télécommunications
 ### DevOps
 
+
+<div class="grid" markdown>
+
 [:material-email: Me contacter](contact.md){ .md-button .md-button--primary }
-[:material-folder-open: Voir mes projets](projets/index.md){ .md-button }
+
+[:material-folder-open: Voir mes projets](projets/index.md){ .md-button .md-button--primary }
+
+</div>
 
 </div>
 
@@ -107,26 +113,18 @@ Supervision Zabbix et scripting pour un environnement d'entreprise avec CI/CD Gi
 
 ## :material-email-fast: Contact Rapide
 
-<div class="grid cards" markdown>
+<div class="grid" markdown>
 
-<div markdown>
-### :material-email: Email
-[contact@lucas-ziolkowski.org](mailto:contact@lucas-ziolkowski.org)
-</div>
+:material-email: Email : [contact@lucas-ziolkowski.org](mailto:contact@lucas-ziolkowski.org)
+{ .card }
 
-<div markdown>
-### :material-gitlab: GitLab
-[gitlab.com/lucas.ziol73](https://gitlab.com/lucas.ziol73)
-</div>
+:material-gitlab: GitLab : [gitlab.com/lucas.ziol73](https://gitlab.com/lucas.ziol73)
+{ .card }
 
-<div markdown>
-### :material-linkedin: LinkedIn
-[linkedin.com/in/lucas-ziolkowski](https://www.linkedin.com/in/lucas-ziolkowski-a760b9278)
-</div>
+:material-linkedin: LinkedIn : [linkedin.com/in/lucas-ziolkowski](https://www.linkedin.com/in/lucas-ziolkowski-a760b9278)
+{ .card }
 
 </div>
-
-[:material-message-text: Page de contact complète](contact.md){ .md-button .md-button--primary }
 
 ---
 
